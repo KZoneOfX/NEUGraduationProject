@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Maven: wso2.3rd:httpcore:4.3.0">
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/wso2/3rd/httpcore/4.3.0/httpcore-4.3.0.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$MAVEN_REPOSITORY$/wso2/3rd/httpcore/4.3.0/httpcore-4.3.0-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$MAVEN_REPOSITORY$/wso2/3rd/httpcore/4.3.0/httpcore-4.3.0-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

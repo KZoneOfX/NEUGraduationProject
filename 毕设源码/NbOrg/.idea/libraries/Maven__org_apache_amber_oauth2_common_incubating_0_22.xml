@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Maven: org.apache.amber:oauth2-common:incubating:0.22">
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/org/apache/amber/oauth2-common/0.22/oauth2-common-0.22-incubating.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$MAVEN_REPOSITORY$/org/apache/amber/oauth2-common/0.22/oauth2-common-0.22-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$MAVEN_REPOSITORY$/org/apache/amber/oauth2-common/0.22/oauth2-common-0.22-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
