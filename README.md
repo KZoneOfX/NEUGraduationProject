@@ -1,8 +1,11 @@
 Design and Implementation of Unified Identity Authentication and Access Control System in E-government
+
 Abstract
 
 In recent years, with the popularity of cloud computing, the Ningbo city has migrated traditional government applications into the private cloud, getting hold of the technical advantages such as elastic computing, dynamic allocation, resource sharing and hence along. As the proposed of centralized standardization of operation and maintenance work, this shared service model is the play of the overall cloud ecosystem. Being a subset, this system puts the concept of identity-as-a-service into practice.
+
 The thesis first introduces the characteristics and system architecture of E-government PaaS cloud and the related technologies. Then the system analysis is introduced, including the requirements analysis and use case analysis. After that, the overall architecture design is further delineated. According to the study of Passive STS, SAML and OAuth protocols, the implementation of the multi-protocols single sign-on module is proposed and the comprehending of ABAC model brings the implementation of an access control engine based on the XACML 3.0 standard. Then the specific implementation of organization structure and user roles management module is described and it’s developed based on reuse of SOAP APIs of WSO2 Identity Server using Apache Axis2 in the time-tested Java web framework named SSM that's shorthand for “Spring, Spring MVC and MyBatis”. The related test results are reported. At last, the work is summarized and the improvement plan is set forth.
+
 The thesis presents the design and implementation of a unified identity authentication and access control system based on WSO2 IS. Aiming at thousands of applications, the system provides three crucial functionalities which are the three-protocols supported single sign-on, the unified management about organization structure, person, role and authority, and the public policy engine support for most existing access control models. The system has been tested and running on the OpenStack in Ningbo governmental private cloud.
 
 Keywords: Single Sign-On(SSO), User Management, Access Control, WSO2 IS, SSM
